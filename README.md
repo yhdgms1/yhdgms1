@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=yhdgms1&show_icons=true&count_private=true&theme=omni&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yhdgms1&layout=compact&hide_border=true&theme=omni&bg_color=00000000&langs_count=6">
+</p>
 
 <!--
 **yhdgms1/yhdgms1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
